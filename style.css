@@ -1,0 +1,26 @@
+/*CSS Reset Settings */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10px;
+    width: 570px;
+    height: 355px;
+}
+
+p {
+    margin: 10px;
+}
+
+h3 {
+    margin: 15px;
+}
